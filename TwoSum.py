@@ -1,5 +1,5 @@
-class TwoSum(object):
-    def twoSum(self, nums, target):
+class TwoSum:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
         """
         :type nums: List[int]
         :type target: int
