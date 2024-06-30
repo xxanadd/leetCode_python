@@ -2,7 +2,7 @@ import unittest
 from LongestSubstringWithoutRepeatingCharacters import Solution
 
 
-class TestTwoSum(unittest.TestCase):
+class LongestSubstringWithoutRepeatingCharacters(unittest.TestCase):
     def test_two_sum(self):
         test = Solution()
 
